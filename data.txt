@@ -1,4 +1,13 @@
 Hello
+<<<<<<< HEAD
 This is in End Repo Master branch
+=======
+This is in End Repo Dev branch
+<<<<<<< HEAD
+>>>>>>> 9769ad9 (changes)
 This is in Github...
 Check
+=======
+This is in Local...
+Check that Now
+>>>>>>> 50e59b3 (changes)
